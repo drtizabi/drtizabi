@@ -2,10 +2,12 @@
 
 - 🔭 I’m currently working on ...
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drtizabi&layout=compact)
+
 <!--
 **drtizabi/drtizabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drtizabi&layout=compact)
+
 
 Here are some ideas to get you started:
 
